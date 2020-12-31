@@ -98,6 +98,7 @@ var returnArray=[
     '2,3,4 was passed in as an array of numbers, and 9 is their sum.'
 ]
 return returnArray;
+
 }
 // Here is the test for sumArray(); uncomment it to run it
 console.log(testSumArray(testArray));
